@@ -7,7 +7,8 @@ import java.util.Random;
  * @author dgbrizan
  *
  */
-public class Practice03Test {
+public class Practice03Test
+{
 	
 	protected final int [] ARRAY_SIZES = {50000, 100000, 150000, 200000, 250000, 300000, 350000, 400000, 450000, 500000};
 	protected final int SEARCH_SIZE = 50000;
